@@ -1,6 +1,4 @@
 # EJERCICIO 03:
-
-
 print('-'*20)
 print('EJERCICIOS 3 - A ¿Cúal es el nombre del profesor (+edad) y el asistente (-edad) de esta clase?')
 
