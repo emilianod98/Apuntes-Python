@@ -1,6 +1,6 @@
-# EJERCICIO 03:
+# EJERCICIO 02-A:
 print('-'*20)
-print('EJERCICIOS 3 - A ¿Cúal es el nombre del profesor (+edad) y el asistente (-edad) de esta clase?')
+print('EJERCICIOS 2 - A ¿Cúal es el nombre del profesor (+edad) y el asistente (-edad) de esta clase?')
 
 # Creamos una funcion para solicitar los nombres y edades:
 def quien_es_quien (cantidad_de_participantes):
